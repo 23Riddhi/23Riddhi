@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @23Riddhi
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning kali linux
+
+
 - 📫 How to reach me @pandeyriddhi554@gmail.com
 
 <!---
